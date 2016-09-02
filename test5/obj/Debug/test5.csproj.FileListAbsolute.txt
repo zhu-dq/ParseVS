@@ -1,0 +1,10 @@
+E:\daima\C++\demo\test5\test5\bin\Debug\test5.exe
+E:\daima\C++\demo\test5\test5\bin\Debug\test5.pdb
+E:\daima\C++\demo\test5\test5\obj\Debug\test5.csprojResolveAssemblyReference.cache
+E:\daima\C++\demo\test5\test5\obj\Debug\test5.Form1.resources
+E:\daima\C++\demo\test5\test5\obj\Debug\test5.Properties.Resources.resources
+E:\daima\C++\demo\test5\test5\obj\Debug\test5.csproj.GenerateResource.Cache
+E:\daima\C++\demo\test5\test5\obj\Debug\test5.exe
+E:\daima\C++\demo\test5\test5\obj\Debug\test5.pdb
+D:\git_clone\C-_REF\ParseVS\test5\obj\Debug\test5.exe
+D:\git_clone\C-_REF\ParseVS\test5\obj\Debug\test5.pdb

@@ -1,0 +1,4 @@
+bulk_upsert_builder.cpp(21)			error:wandan
+bulk_update_builder.cpp(11)			error:uninit
+connection_string_test.cpp(23)   	error:dsadas
+E:\github\mongo-cxx-driver\src\mongo\db\json.cpp(55) error:  json
